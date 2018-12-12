@@ -7,7 +7,7 @@ You must have installed TrueAutomation client, JDK 8 or later.
 * Checkout project
  
  ```
- clone https://github.com/shapovalovei/trueautomation-testng.git
+ git clone https://github.com/pyavchik/extjsTA.git
  ```
 
 * Init project use `trueautomation init` command
